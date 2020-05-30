@@ -4,7 +4,7 @@ body{
     margin-left: 30px;
     margin-right: 30px;
 }
-h1{
+.sub{
     text-align: center;
     background-color: #C0CBF3;
 }
@@ -53,4 +53,10 @@ a{
 .who{
     height: 100px;
     width: 250px;
+}
+.main{
+    margin-top: 7%;
+}
+.top{
+    margin-left: 35%;
 }
