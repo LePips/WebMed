@@ -1,7 +1,7 @@
 {
     "name" : "WebMed",
     "version": "1.0",
-    "description": "Get information on ",
+    "description": "Be informed",
     "permissions": ["activeTab", "declarativeContent", "storage", "tabs", "<all_urls>"],
     "background": {
         "scripts": ["background.js"],
